@@ -1,0 +1,10 @@
+pipeline {
+stages {
+stage(''Dev Env) {
+steps {
+bat("dir")
+}
+}
+}
+}
+© 2021 GitHub, Inc.
